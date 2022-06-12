@@ -1,0 +1,99 @@
+h2{
+    color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(111, 187, 245);
+    word-spacing: 10px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#p-1{
+    color: rgb(48, 19, 237);
+    font-size: 18px;
+    word-spacing: 5px;
+    text-align: justify;
+   background-image:url(https://www.timesofsports.com/wp-content/uploads/2021/06/BCCI-Indian-Cricket-Team-Playing-11.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
+.p-style{
+    color: blueviolet;
+    font-size: 20px;
+}
+#p-3{
+    color: rgb(13, 71, 197);
+    font-size: 20px;
+    text-decoration-style: wavy;
+}
+#p-4{
+    color: brown;
+    background-color: aliceblue;
+    font-size: 30px;
+    text-align: left;
+}
+#p-5{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-6{
+    color: rgba(2, 215, 91, 0.901);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-7{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-8{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-9{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-10{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-11{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-12{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-13{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-14{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-15{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
